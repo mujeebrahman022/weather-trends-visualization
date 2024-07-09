@@ -15,6 +15,7 @@ The Tableau dashboard created for this project provides an interactive way to ex
 * Temperature Trends: Line charts showing temperature changes over time.
 * Precipitation Patterns: Heatmaps and bar charts displaying precipitation data across regions.
 * Humidity and Wind Speed: Scatter plots and area charts illustrating variations in humidity and wind speed.
+* Dashboard link: [Click](https://github.com/mujeebrahman022/weather-trends-visualization/blob/main/capstone.twb)
 
 # Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
